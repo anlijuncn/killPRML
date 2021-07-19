@@ -28,6 +28,8 @@ There are 3 parts of this repo. First part is the answer for each chapter, I wil
 - [ ] Linear Regression
 - [ ] Logistic Regression
 - [ ] Kernel Regression
+- [ ] Naive Bayers
+- [ ] Gaussian model
 - [ ] PCA
 - [ ] LDA
 - [ ] ICA
@@ -38,6 +40,7 @@ There are 3 parts of this repo. First part is the answer for each chapter, I wil
 - [ ] Variational Inference
 - [ ] Markove Random Field
 - [ ] MCMC
+- [ ] Ensembel learnign
 
 ### -> C++ implamentation
 
