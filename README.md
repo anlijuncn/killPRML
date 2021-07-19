@@ -6,7 +6,7 @@ Why I open this repo is that I found in my research, I found myself not very fam
 ---------------------------
 ## Structure
 There are 3 parts of this repo. First part is the answer for each chapter, I will try to not skip any steps in derivation. Second part Pytho implementation for some ML models, I will try to give some visualization to help deeper understanding the models to have a better intution. Third part is just C++ implementation I am planning to do if I have time. 
-### -> Solution
+### &#128481; Solution
 
 
 - [ ] Chapter 2
@@ -23,7 +23,7 @@ There are 3 parts of this repo. First part is the answer for each chapter, I wil
 - [ ] Chapter 13
 - [ ] Chapter 14
 
-### -> Python implementation
+### &#128481; Python implementation
 
 - [ ] Linear Regression
 - [ ] Logistic Regression
@@ -47,7 +47,7 @@ There are 3 parts of this repo. First part is the answer for each chapter, I wil
 - [ ] MCMC
 - [ ] Ensembel learning
 
-### -> C++ implamentation
+### &#128481; C++ implamentation
 - [ ] Linear Regression
 - [ ] Logistic Regression
 - [ ] Kernel Regression
