@@ -28,22 +28,47 @@ There are 3 parts of this repo. First part is the answer for each chapter, I wil
 - [ ] Linear Regression
 - [ ] Logistic Regression
 - [ ] Kernel Regression
-- [ ] Naive Bayers
-- [ ] Gaussian model
+- [ ] Naive Bayes
+- [ ] Gaussian Mixture model
+- [ ] Linear Mixture Model
+- [ ] Generalized Linear Mixture Model
+- [ ] Gaussian process
 - [ ] PCA
 - [ ] LDA
 - [ ] ICA
+- [ ] K-means
+- [ ] T-SNE
 - [ ] SVM
 - [ ] Decision Tree
 - [ ] Random Forest
-- [ ] Mxiture model & EM
+- [ ] EM
 - [ ] Variational Inference
 - [ ] Markove Random Field
 - [ ] MCMC
-- [ ] Ensembel learnign
+- [ ] Ensembel learning
 
 ### -> C++ implamentation
-
+- [ ] Linear Regression
+- [ ] Logistic Regression
+- [ ] Kernel Regression
+- [ ] Naive Bayes
+- [ ] Gaussian Mixture model
+- [ ] Linear Mixture Model
+- [ ] Generalized Linear Mixture Model
+- [ ] Gaussian process
+- [ ] PCA
+- [ ] LDA
+- [ ] ICA
+- [ ] K-means
+- [ ] T-SNE
+- [ ] SVM
+- [ ] Decision Tree
+- [ ] Random Forest
+- [ ] EM
+- [ ] Variational Inference
+- [ ] Markove Random Field
+- [ ] MCMC
+- [ ] Ensembel learning
 ---------------------------
 ## Bugs | Errors
 If you find any errors, you are welcome to open an issue or email me at anlijuncn@gmail.com
