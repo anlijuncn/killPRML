@@ -1,8 +1,5 @@
 # killPRML manual solution
 ---
-## Why Jupyter Notebook?
----
-I choose jupyter for easy share and display on webpage. Cause until now, I could not find elegant way for Latex on github. If you seek a Latex/PDF version, you are could check this [repo](https://github.com/zhengqigao/PRML-Solution-Manual) from @zhengqigao 
 ## Progress
 - [ ] Chapter 2
 - [ ] Chapter 3
