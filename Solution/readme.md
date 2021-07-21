@@ -1,5 +1,8 @@
 # killPRML manual solution
 ---
+## Latex or Markdown?
+---
+I choose markdown + mathjax for easy share and display on webpage. If you seek a Latex/PDF version, you are could check this [repo](https://github.com/zhengqigao/PRML-Solution-Manual) from @zhengqigao 
 ## Progress
 - [ ] Chapter 2
 - [ ] Chapter 3
