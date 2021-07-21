@@ -1,5 +1,3 @@
 \begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
+\dot{x} & = \sigma(y-x)
 \end{aligned}
