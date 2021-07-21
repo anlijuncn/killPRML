@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage{titling}
+\usepackage{fancyhdr}
+\usepackage{amsmath,bm}
+\pretitle{\begin{flushleft}\huge}
+\posttitle{\par\end{flushleft}\vspace{-8mm}}
+\preauthor{\begin{flushleft}
+            % \large \lineskip 0em%
+            \begin{tabular}[t]{r}}
+\postauthor{\end{tabular}\par\end{flushleft}\vspace{-8mm}}
+\predate{\begin{flushleft}\small}
+\postdate{\par\end{flushleft}}
+\pagestyle{fancy}
+\fancyhead[L]{killPRML}
+\fancyhead[R]{@anlijuncn}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{4pt}
+\title{Chapter 2 Probability Distributions}
+\author{}
+\date{}
+%---------------------------------------------------%
+\begin{document}
+\maketitle
+\section*{Exercise 2.1}
+By Bernulli distribution defination, we have
+\begin{align}
+    \sum_{x_i=0, 1} p(x_i|\mu) = \mu + (1 - \mu) = 1
+\end{align}
+By expectation defination, we have
+\begin{align}
+    E[x] = \sum_{x_i=0, 1} x_ip(x_i|\mu) = 0 * (1 - \mu) + 1 * \mu=\mu
+\end{align}
+By varance defination, we have
+\begin{align}
+    Var[x] & = \sum_{x_i=0, 1} (x_i - E[x])^2p(x_i|\mu) \\
+    & = \mu^2 (1 - \mu) + (1 - \mu)^2 \mu \\
+    & = \mu (1 - \mu)
+\end{align}
+\section*{Exercise 2.2}
+
+\end{document}
