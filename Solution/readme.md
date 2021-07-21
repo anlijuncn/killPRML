@@ -4,7 +4,7 @@
 ---
 I choose markdown + mathjax for easy share and display on webpage. If you seek a Latex/PDF version, you are could check this [repo](https://github.com/zhengqigao/PRML-Solution-Manual) from @zhengqigao 
 ## Progress
-- [ ] [Chapter 2](https://anlijun.cn/prml/2021-09-19-PRMLChapter2)
+- [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
 - [ ] Chapter 5
