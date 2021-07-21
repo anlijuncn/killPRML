@@ -1,3 +1,3 @@
-\begin{aligned}
-\dot{x} & = \sigma(y-x)
-\end{aligned}
+\begin{align}
+\dot{x} & = \sigma(y-x) \
+\end{align}
