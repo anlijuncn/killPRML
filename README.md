@@ -71,4 +71,4 @@ There are 3 parts of this repo. First part is the answer for each chapter, I wil
 - [ ] Ensembel learning
 ---------------------------
 ## Bugs | Errors
-If you find any errors, you are welcome to open an issue or email me at anlijuncn@gmail.com
+If you find any bugs or errors, you are welcome to open an issue or email me at anlijuncn@gmail.com
