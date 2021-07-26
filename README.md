@@ -5,7 +5,11 @@ Why I open this repo is that I found in my research, I found myself not very fam
 
 ---------------------------
 ## Structure
-There are 3 parts of this repo. First part is the answer for each chapter, I will try to not skip any steps in derivation. Second part Pytho implementation for some ML models, I will try to give some visualization to help deeper understanding the models to have a better intution. Third part is just C++ implementation I am planning to do if I have time. 
+There are 3 parts of this repo.  
+- First part is the manual for each chapter, I will try to not skip any steps in derivation.
+- Second part is Python implementation for some ML models, I will try to give some visualization to help deeper understanding the models.
+- Third part is the slides for PRML, if I finish the part 1 and 2, I would try to make some slides to help give beginers an "end-to-end" ML introduction.
+
 ### &#128481; Solution
 
 - [ ] Chapter 1
@@ -47,28 +51,7 @@ There are 3 parts of this repo. First part is the answer for each chapter, I wil
 - [ ] MCMC
 - [ ] Ensembel learning
 
-### &#128481; C++ implamentation
-- [ ] Linear Regression
-- [ ] Logistic Regression
-- [ ] Kernel Regression
-- [ ] Naive Bayes
-- [ ] Gaussian Mixture model
-- [ ] Linear Mixture Model
-- [ ] Generalized Linear Mixture Model
-- [ ] Gaussian process
-- [ ] PCA
-- [ ] LDA
-- [ ] ICA
-- [ ] K-means
-- [ ] T-SNE
-- [ ] SVM
-- [ ] Decision Tree
-- [ ] Random Forest
-- [ ] EM
-- [ ] Variational Inference
-- [ ] Markove Random Field
-- [ ] MCMC
-- [ ] Ensembel learning
+### &#128481; Slides
 ---------------------------
 ## Bugs | Errors
 If you find any bugs or errors, you are welcome to open an issue or email me at anlijuncn@gmail.com
