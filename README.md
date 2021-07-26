@@ -8,7 +8,7 @@ Why I open this repo is that I found in my research, I found myself not very fam
 There are 3 parts of this repo. First part is the answer for each chapter, I will try to not skip any steps in derivation. Second part Pytho implementation for some ML models, I will try to give some visualization to help deeper understanding the models to have a better intution. Third part is just C++ implementation I am planning to do if I have time. 
 ### &#128481; Solution
 
-
+- [ ] Chapter 1
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
