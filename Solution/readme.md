@@ -1,7 +1,13 @@
 # killPRML manual solution
 ---
 ## Declaration
-(1) I wrote this solution manual purely out of admiration of PRML, **and I have no will to publish this solutiona manual**, (2)It is only meant to be used as personal study reference, **please donnot take it for other purposes, e.g., upload to other websites or publication**. (3) If it is illegal (infringing the copyright), please contact me and I will withdraw this solution maunal immediately. (4) There is actually an official solution manual published by Springer. [You can find it here](https://www.springer.com/gb/book/9780387310732).
+
+(1) I wrote this solution manual purely out of admiration of PRML, **and I have no will to publish this solutiona manual**,  
+(2)It is only meant to be used as personal study reference, **please donnot take it for other purposes, e.g., upload to other websites or publication**.  
+(3) If it is illegal (infringing the copyright), please contact me and I will withdraw this solution maunal immediately.  
+(4) There is actually an official solution manual published by Springer. [You can find it here](https://www.springer.com/gb/book/9780387310732).
+
+The declaration is directly copied from Zhengqi Gao's [PRML-Solution-Manual](https://github.com/zhengqigao/PRML-Solution-Manual), thanks for his work!
 
 ---
 ## Progress
