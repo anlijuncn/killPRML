@@ -3,4 +3,8 @@
 *.aux
 *.DS_Store
 *.json
+*.bbl
+*.blg
+*.bcf
+*.run.xml
 
