@@ -2,7 +2,7 @@
 --------------------
 ## Introduction
 XiaoLiKnife is a Python library for PRML and general ML problems, it is a customed high level API for `sklearn`/`scipy`/`matplitlib`/`seaborn`/`panads` packages, 
-it is like Xiao Li Fei Dao in 金庸小说，small but powerful. 
+it is like Xiao Li Fei Dao in 金庸小说，light but powerful. 
 
 --------------------
 ## Functions
