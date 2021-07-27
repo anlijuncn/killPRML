@@ -1,4 +1,4 @@
-# killPRML manual solution
+# PRML manual solution
 ---
 ## Declaration
 
